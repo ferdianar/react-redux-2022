@@ -1,5 +1,7 @@
 # React Redux 2022
 
+<img src="https://raw.githubusercontent.com/ferdianar/react-redux-2022/master/src/assets/UsersList.png" alt="preview" />
+
 ## Available Scripts
 
 In the project directory, you can run:
