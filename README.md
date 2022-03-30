@@ -1,4 +1,4 @@
-# React Redux 2022
+## React Redux List Name
 
 <img src="https://raw.githubusercontent.com/ferdianar/react-redux-2022/master/src/assets/UsersList.png" alt="preview" />
 
